@@ -25,8 +25,10 @@ __Demo__
 
 __Sign Up__
 
-We're free for public repositories. 25$/month/user for closed repositories. You can sign up on http://www.robotcoder.net. 
+We're free for public repositories. 
+25$/month/user for closed repositories. 
+You can sign up on http://www.robotcoder.net. 
 
 __Who__
 
-It's a project written by Nicolas Toper and Marcus Engene. We're always eager to hear from potential users. Please email us!
+It's a project written by [Nicolas Toper](mailto:ntoper@manycore.io) and [Marcus Engene](mailto:marcus@manycore.io). We're always eager to hear from potential users. Please email us!
