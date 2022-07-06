@@ -18,12 +18,15 @@ Compared to Android Strict Mode, Robotcoder is better because
 - **No false positives**. Strict Mode logs are full of false positive. For instance, inflating a layout will trigger a StrictMode warning. But this is the only way to do it. 
 
 __Demo__
+
 - A really obvious problem caught by RobotCoder
 - A "less obvious" problem
 - A really not obvious problem we're still catching!
 
 __Sign Up__
+
 We're free for public repositories. 25$/month/user for closed repositories. You can sign up on http://www.robotcoder.net. 
 
 __Who__
+
 It's a project written by Nicolas Toper and Marcus Engene. We're always eager to hear from potential users. Please email us!
