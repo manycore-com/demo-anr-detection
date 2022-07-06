@@ -8,7 +8,7 @@ In practice, this means less ANR in production, a faster app and more efficient 
 
 __Why?__
 
-You're probably familiar with Android Strict Mode. Compared to the Strict Mode, 
+Compared to Android Strict Mode, Robotcoder is better because
 
 - Less performance problem in production. We catch these issues when the PR is pushed. Strict Mode will catch them when the app is in testing 
 - we attribute the violation to a line of code. We tell you which line of code is creating the problem and why. Strict Mode can only warn you of problems not who should fix them
