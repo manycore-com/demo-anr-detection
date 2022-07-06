@@ -1,4 +1,4 @@
-This repository is here for demo purposes to explain how RobotCoder works and what it does.
+This repository explains how RobotCoder works and what it does.
 
 __RobotCoder__
 
@@ -21,3 +21,6 @@ __Demo__
 - A really obvious problem caught by RobotCoder
 - A "less obvious" problem
 - A really not obvious problem we're still catching!
+
+__Sign Up__
+We're free for public repositories and you can sign up on http://www.robotcoder.net
