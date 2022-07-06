@@ -19,9 +19,9 @@ Compared to Android Strict Mode, Robotcoder is better because
 
 __Demo__
 
-- A really obvious problem caught by RobotCoder
-- A "less obvious" problem
-- A really not obvious problem we're still catching!
+- A [really obvious problem caught by RobotCoder](https://github.com/manycore-com/demo-anr-detection/pull/1)
+- A ["slightly less obvious" problem](https://github.com/manycore-com/demo-anr-detection/pull/2)
+- A [really not obvious problem for non Glide users!](https://github.com/manycore-com/demo-anr-detection/pull/3)
 
 __Sign Up__
 
