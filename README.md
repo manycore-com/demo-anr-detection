@@ -2,7 +2,7 @@ This repository explains how RobotCoder works and what it does.
 
 __RobotCoder__
 
-Robotcoder is a tool that tells you when you're accidentally using Android main thread to access disk or network. When you create a PR our bot will analyze it and adds a comment if there is such an access.
+Robotcoder is a tool that tells you when you're accidentally using Android main thread to access disk or network. When you create a PR our bot will analyze it and adds a comment if there is such an access. It's a 10x better replacement to Android Strict Mode
 
 In practice, this means less ANR in production, a faster app and more efficient engineers.
 
