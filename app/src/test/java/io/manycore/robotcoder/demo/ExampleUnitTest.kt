@@ -1,4 +1,4 @@
-package com.example.robotcoder_demo
+package io.manycore.robotcoder.demo
 
 import org.junit.Test
 
