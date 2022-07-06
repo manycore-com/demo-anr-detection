@@ -10,8 +10,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val storageDirectory =
-            getExternalFilesDir("your_path")?.absolutePath
+        val storageDirectory = getExternalFilesDir("your_path")?.absolutePath
 
 
 
